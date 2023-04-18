@@ -1,2 +1,2 @@
-# relai-ui
-Relai Network UI
+# RELAI App
+Relai Network app
